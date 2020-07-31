@@ -1,0 +1,30 @@
+_repo: The-Boy-Whaleman_62689
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Avison, George
+    birthdate: 1885
+    gutenberg_agent_id: '36694'
+    url: http://www.gutenberg.org/2009/agents/36694
+creator:
+  author:
+    agent_name: Tucker, George Fox
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '41342'
+    url: http://www.gutenberg.org/2009/agents/41342
+description: ''
+gutenberg_issued: '2020-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62689'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Whaling -- Juvenile fiction'
+- GITenberg
+title: The Boy Whaleman
+url: http://www.gutenberg.org/ebooks/62689
