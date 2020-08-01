@@ -1,11 +1,14 @@
 _repo: The-Boy-Whaleman_62689
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Avison, George
     birthdate: 1885
     gutenberg_agent_id: '36694'
     url: http://www.gutenberg.org/2009/agents/36694
+covers:
+- cover_type: archival
+  image_path: 62689-h/images/cover.jpg
 creator:
   author:
     agent_name: Tucker, George Fox
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '41342'
     url: http://www.gutenberg.org/2009/agents/41342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62689#The-Boy-Whaleman
 gutenberg_issued: '2020-07-18'
 gutenberg_type: Text
 identifiers:
